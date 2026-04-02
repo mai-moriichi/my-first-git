@@ -1,3 +1,3 @@
 # My First Git Project
 
-#2 Git
+#2 Git.
